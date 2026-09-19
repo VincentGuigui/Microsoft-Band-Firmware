@@ -1,15 +1,7 @@
 # Microsoft Band firmware archive
 
 Firmware images for Microsoft Band devices, plus the results of unpacking and
-decompiling them, kept here for reference and future analysis. This content
-was originally gathered while working on
-[Microband](https://github.com/VincentGuigui/Microband), an Android
-companion app for the Band 2, and was moved into its own repository because
-the binaries and generated decompilation output don't belong in an app's
-source tree.
-
-None of this is a working firmware replacement, and none of it is used to
-flash a device from here -- see "Can this be recompiled?" below.
+decompiling them, kept here for reference and future analysis. 
 
 ## Layout
 
